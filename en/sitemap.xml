@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://thesagniksaha.github.io/blogs/</loc>
+    <lastmod>2020-03-12T00:45:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thesagniksaha.github.io/</loc>
+    <lastmod>2020-03-12T00:45:57+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://thesagniksaha.github.io/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://thesagniksaha.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://thesagniksaha.github.io/blogs/python/</loc>
+    <lastmod>2020-03-12T00:45:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thesagniksaha.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://thesagniksaha.github.io/pt-br/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://thesagniksaha.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://thesagniksaha.github.io/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://thesagniksaha.github.io/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://thesagniksaha.github.io/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://thesagniksaha.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://thesagniksaha.github.io/pt-br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://thesagniksaha.github.io/tags/"
+                />
+  </url>
+  
+</urlset>
